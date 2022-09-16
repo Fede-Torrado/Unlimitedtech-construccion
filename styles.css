@@ -43,6 +43,7 @@ img{
         width:35%;
         margin-top: 20px;
         margin-left: 20px;
+        margin-bottom:80px;
     }
     .container{
         display: flex;
